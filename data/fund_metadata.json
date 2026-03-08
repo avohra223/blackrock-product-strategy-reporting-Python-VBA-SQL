@@ -1,0 +1,12 @@
+{
+  "fund_name": "BlackRock Systematic Global Equity Fund",
+  "fund_ticker": "BRSGEQ",
+  "benchmark": "MSCI World Index",
+  "inception_date": "2019-03-15",
+  "base_currency": "USD",
+  "fund_manager": "BlackRock Systematic (BSYS)",
+  "strategy": "Systematic Equity - Multi-Factor",
+  "domicile": "Ireland",
+  "reporting_period": "Jul 2025 - Jun 2026",
+  "total_aum_mm": 2650.0
+}
