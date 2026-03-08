@@ -1,0 +1,16 @@
+{
+  "cumulative_fund_return": 22.29,
+  "cumulative_benchmark_return": 20.42,
+  "cumulative_active_return": 1.87,
+  "annualized_fund_return": 22.29,
+  "annualized_benchmark_return": 20.42,
+  "annualized_fund_volatility": 10.34,
+  "annualized_benchmark_volatility": 10.19,
+  "tracking_error": 0.76,
+  "information_ratio": 2.46,
+  "sharpe_ratio": 1.53,
+  "max_drawdown": -1.9,
+  "best_month": 7.07,
+  "worst_month": -1.52,
+  "pct_positive_months": 58.3
+}
